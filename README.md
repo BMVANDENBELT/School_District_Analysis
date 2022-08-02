@@ -10,7 +10,8 @@ When we compare the school by school analysis, we can see a greater change. Remo
 <img width="620" alt="Screen Shot 2022-08-02 at 12 20 24 PM" src="https://user-images.githubusercontent.com/107223178/182424023-7f3a18af-6b8d-43a5-bba5-c97a1718189f.png">
 <img width="620" alt="Screen Shot 2022-08-02 at 12 20 48 PM" src="https://user-images.githubusercontent.com/107223178/182424081-7ae1c399-cf25-4e34-b152-12f0c2e00c00.png">
 ---------------------------------
-# SUMMARY
+
+# SUMMARY 
   - There are three categories to dissect for this summary: Spending, Size, and Type.
     - Spending shows us that the results if schools with the lower spending ranges tended to have averages for math, reading, pass math %, pass reading %, and overall passing %.
     - Size results show us that that the small and medium school did similar to one another in all the categories while the larger school showed lower stats across the board. 90-91% passing in the small-medium schools to just 58% in large school sizes.
