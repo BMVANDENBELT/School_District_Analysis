@@ -9,7 +9,7 @@
 When we compare the school by school analysis, we can see a greater change. Removing the 9th grade data shows a bigger change because 1/4th of the data displayed is affected for THS. Overall passing went down 35% (90% to 65%). This change is blatantly identifiable in the shift of scores. In terms we can all agree on, we should continue the analysis of each gade (a new variable).
 <img width="620" alt="Screen Shot 2022-08-02 at 12 20 24 PM" src="https://user-images.githubusercontent.com/107223178/182424023-7f3a18af-6b8d-43a5-bba5-c97a1718189f.png">
 <img width="620" alt="Screen Shot 2022-08-02 at 12 20 48 PM" src="https://user-images.githubusercontent.com/107223178/182424081-7ae1c399-cf25-4e34-b152-12f0c2e00c00.png">
----------------------------------
+-----------------------------------------------------------------------------------------------------------
 
 # SUMMARY 
   - There are three categories to dissect for this summary: Spending, Size, and Type.
